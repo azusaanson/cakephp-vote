@@ -1,4 +1,8 @@
-# cakephp_vote
+# cakephp vote
+
+TO DO:
+- >= 3NF
+  - db col datatype should not be list
 
 議案を作り，そしてそれに対して投票・コメントができるサイトです。
 
